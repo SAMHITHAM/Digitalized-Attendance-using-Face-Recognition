@@ -33,5 +33,5 @@
 <img src='https://github.com/SAMHITHAM/Digitalized-Attendance-using-Face-Recognition/blob/main/Project%20Snap/image8.png'>
 
 ## Attendance in tabular format 
-<img src='https://github.com/SAMHITHAM/Digitalized-Attendance-using-Face-Recognition/blob/main/Project%20Snap/7.PNG'>
+<img src='https://github.com/SAMHITHAM/Digitalized-Attendance-using-Face-Recognition/blob/main/Project%20Snap/image7.png'>
 
